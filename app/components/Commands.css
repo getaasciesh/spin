@@ -3,6 +3,7 @@
   align-items: center;
   height: 100px;
 }
+
 .itemCheck {
   flex-basis: 50px;
 }
