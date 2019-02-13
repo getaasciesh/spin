@@ -1,0 +1,16 @@
+.itemsHolder {
+  display: flex;
+  align-items: center;
+  height: 100px;
+}
+.itemCheck {
+  flex-basis: 50px;
+}
+
+.itemText {
+  flex-grow: 1;
+}
+
+.itemBtn {
+  flex-basis: 60px;
+}
