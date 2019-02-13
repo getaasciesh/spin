@@ -1,4 +1,4 @@
-## Serial COM logger and command dispatcher (made for connecting mac with chinese GPS  and other devices that connect via serial ports (may also work with windows))
+## Serial COM logger and command dispatcher (made for connecting mac with GPS and other devices that connect via serial ports (may also work with windows))
 
 
 ![Electron Boilerplate Demo](https://raw.githubusercontent.com/getaasciesh/spin/master/ezgif.com-optimize.gif)
